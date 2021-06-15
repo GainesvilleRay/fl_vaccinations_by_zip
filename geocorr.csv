@@ -1,0 +1,1117 @@
+zip,fips,county,place,pop_2018,factor
+32601,12001,Alachua,"Gainesville, FL",18585,1
+32603,12001,Alachua,"Gainesville, FL",6741,1
+32605,12001,Alachua,"Gainesville, FL",22925,1
+32606,12001,Alachua,"Gainesville, FL",21833,1
+32607,12001,Alachua,"Gainesville, FL",29750,1
+32608,12001,Alachua,"Gainesville, FL",45842,1
+32609,12001,Alachua,"Gainesville, FL",18756,1
+32612,12001,Alachua,"Gainesville, FL",5458,1
+32615,12001,Alachua,"Alachua, FL",14295,1
+32616,12001,Alachua,"Alachua, FL",872,1
+32618,12001,Alachua,"Archer, FL",5884,0.761
+32622,12001,Alachua,"Brooker, FL",307,0.2372
+32631,12001,Alachua,"Earleton, FL",291,1
+32640,12001,Alachua,"Hawthorne, FL",4900,0.4662
+32641,12001,Alachua,"Gainesville, FL",14291,1
+32643,12001,Alachua,"High Springs, FL",7602,0.6951
+32653,12001,Alachua,"Gainesville, FL",12844,1
+32658,12001,Alachua,"La Crosse, FL",308,1
+32666,12001,Alachua,"Melrose, FL",761,0.1286
+32667,12001,Alachua,"Micanopy, FL",2140,0.564
+32669,12001,Alachua,"Newberry, FL",10809,0.93
+32694,12001,Alachua,"Waldo, FL",2142,1
+32040,12003,Baker,"Glen Saint Mary, FL",7604,1
+32063,12003,Baker,"Macclenny, FL",13429,1
+32072,12003,Baker,"Olustee, FL",324,1
+32087,12003,Baker,"Sanderson, FL",5518,1
+32234,12003,Baker,"Jacksonville, FL",238,0.036
+32401,12005,Bay,"Panama City, FL",22647,1
+32403,12005,Bay,"Tyndall AFB, FL",2995,1
+32404,12005,Bay,"Callaway, FL",38425,1
+32405,12005,Bay,"Panama City, FL",29980,1
+32407,12005,Bay,"Panama City Beach, FL",9347,1
+32408,12005,Bay,"Upper Grand Lagoon, FL",15352,1
+32409,12005,Bay,"Panama City, FL",8691,1
+32410,12005,Bay,"Mexico Beach, FL",740,1
+32413,12005,Bay,"Panama City Beach, FL",12013,0.9151
+32437,12005,Bay,"Ebro, FL",114,0.1679
+32438,12005,Bay,"Fountain, FL",3727,0.918
+32444,12005,Bay,"Lynn Haven, FL",18985,1
+32456,12005,Bay,"Port St. Joe, FL",335,0.0481
+32462,12005,Bay,"Vernon, FL",41,0.012
+32466,12005,Bay,"Youngstown, FL",5459,0.9677
+32026,12007,Bradford,"Raiford, FL",1959,1
+32044,12007,Bradford,"Hampton, FL",2060,1
+32054,12007,Bradford,"Lake Butler, FL",514,0.0418
+32058,12007,Bradford,"Lawtey, FL",4246,0.9615
+32083,12007,Bradford,"Raiford, FL",1342,0.2861
+32091,12007,Bradford,"Starke, FL",15027,0.9712
+32622,12007,Bradford,"Brooker, FL",987,0.7628
+32656,12007,Bradford,"Keystone Heights, FL",1314,0.0938
+32666,12007,Bradford,"Melrose, FL",1071,0.181
+32754,12009,Brevard,"Mims, FL",10715,0.9471
+32780,12009,Brevard,"Titusville, FL",34628,1
+32796,12009,Brevard,"Titusville, FL",20139,1
+32901,12009,Brevard,"Melbourne, FL",24521,1
+32903,12009,Brevard,"Indialantic, FL",12869,1
+32904,12009,Brevard,"West Melbourne, FL",26710,1
+32905,12009,Brevard,"Palm Bay, FL",22084,1
+32907,12009,Brevard,"Palm Bay, FL",41870,1
+32908,12009,Brevard,"Palm Bay, FL",10892,1
+32909,12009,Brevard,"Palm Bay, FL",30120,1
+32920,12009,Brevard,"Cape Canaveral, FL",9848,1
+32922,12009,Brevard,"Cocoa, FL",14916,1
+32925,12009,Brevard,"Patrick AFB, FL",1222,1
+32926,12009,Brevard,"Cocoa, FL",22752,1
+32927,12009,Brevard,"Cocoa, FL",28092,1
+32931,12009,Brevard,"Cocoa Beach, FL",13567,1
+32934,12009,Brevard,"Melbourne, FL",17338,1
+32935,12009,Brevard,"Melbourne, FL",39082,1
+32937,12009,Brevard,"Satellite Beach, FL",24969,1
+32940,12009,Brevard,"Melbourne, FL",31999,1
+32948,12009,Brevard,"Fellsmere, FL",52,0.0077
+32949,12009,Brevard,"Grant-Valkaria, FL",2248,1
+32950,12009,Brevard,"Malabar, FL",3982,1
+32951,12009,Brevard,"Melbourne Beach, FL",10673,1
+32952,12009,Brevard,"Merritt Island, FL",19881,1
+32953,12009,Brevard,"Merritt Island, FL",22754,1
+32955,12009,Brevard,"Rockledge, FL",36374,1
+32976,12009,Brevard,"Micco, FL",9079,1
+33004,12011,Broward,"Dania Beach, FL",15588,1
+33009,12011,Broward,"Hallandale Beach, FL",39341,1
+33019,12011,Broward,"Hollywood, FL",15107,1
+33020,12011,Broward,"Hollywood, FL",41329,1
+33021,12011,Broward,"Hollywood, FL",45921,1
+33023,12011,Broward,"Miramar, FL",63576,1
+33024,12011,Broward,"Hollywood, FL",63916,1
+33025,12011,Broward,"Miramar, FL",59039,1
+33026,12011,Broward,"Pembroke Pines, FL",28498,1
+33027,12011,Broward,"Miramar, FL",57663,1
+33028,12011,Broward,"Pembroke Pines, FL",26696,1
+33029,12011,Broward,"Pembroke Pines, FL",45235,1
+33060,12011,Broward,"Pompano Beach, FL",32154,1
+33062,12011,Broward,"Pompano Beach, FL",23948,1
+33063,12011,Broward,"Margate, FL",51019,1
+33064,12011,Broward,"Pompano Beach, FL",52969,1
+33065,12011,Broward,"Coral Springs, FL",51921,1
+33066,12011,Broward,"Coconut Creek, FL",15760,1
+33067,12011,Broward,"Coral Springs, FL",26458,1
+33068,12011,Broward,"North Lauderdale, FL",49824,1
+33069,12011,Broward,"Pompano Beach, FL",25700,1
+33071,12011,Broward,"Coral Springs, FL",36964,1
+33073,12011,Broward,"Coconut Creek, FL",29168,1
+33076,12011,Broward,"Coral Springs, FL",29751,1
+33301,12011,Broward,"Fort Lauderdale, FL",14586,1
+33304,12011,Broward,"Fort Lauderdale, FL",17724,1
+33305,12011,Broward,"Fort Lauderdale, FL",11927,1
+33306,12011,Broward,"Fort Lauderdale, FL",3397,1
+33308,12011,Broward,"Fort Lauderdale, FL",28217,1
+33309,12011,Broward,"Oakland Park, FL",33705,1
+33311,12011,Broward,"Fort Lauderdale, FL",63786,1
+33312,12011,Broward,"Fort Lauderdale, FL",49343,1
+33313,12011,Broward,"Lauderhill, FL",56039,1
+33314,12011,Broward,"Davie, FL",21885,1
+33315,12011,Broward,"Fort Lauderdale, FL",12153,1
+33316,12011,Broward,"Fort Lauderdale, FL",10044,1
+33317,12011,Broward,"Plantation, FL",35372,1
+33319,12011,Broward,"Lauderhill, FL",44420,1
+33321,12011,Broward,"Tamarac, FL",44327,1
+33322,12011,Broward,"Sunrise, FL",37858,1
+33323,12011,Broward,"Sunrise, FL",18929,1
+33324,12011,Broward,"Plantation, FL",42847,1
+33325,12011,Broward,"Davie, FL",27570,1
+33326,12011,Broward,"Weston, FL",31257,1
+33327,12011,Broward,"Weston, FL",22658,1
+33328,12011,Broward,"Davie, FL",27415,1
+33330,12011,Broward,"Cooper City, FL",14107,1
+33331,12011,Broward,"Weston, FL",23204,1
+33332,12011,Broward,"Weston, FL",11199,1
+33334,12011,Broward,"Oakland Park, FL",28749,1
+33351,12011,Broward,"Sunrise, FL",32890,1
+33441,12011,Broward,"Deerfield Beach, FL",26838,1
+33442,12011,Broward,"Deerfield Beach, FL",28075,1
+32421,12013,Calhoun,"Altha, FL",4497,1
+32424,12013,Calhoun,"Blountstown, FL",7994,1
+32430,12013,Calhoun,"Clarksville, FL",1199,1
+32438,12013,Calhoun,"Fountain, FL",287,0.0707
+32442,12013,Calhoun,"Grand Ridge, FL",170,0.046
+32449,12013,Calhoun,"Wewahitchka, FL",478,1
+33917,12015,Charlotte,"North Fort Myers, FL",133,0.0046
+33921,12015,Charlotte,"Boca Grande, FL (PO Boxes)",396,0.2302
+33946,12015,Charlotte,"Placida, FL",2125,1
+33947,12015,Charlotte,"Rotonda, FL",8180,1
+33948,12015,Charlotte,"Port Charlotte, FL",15958,1
+33950,12015,Charlotte,"Punta Gorda, FL",20699,1
+33952,12015,Charlotte,"Port Charlotte, FL",28382,1
+33953,12015,Charlotte,"Port Charlotte, FL",5522,1
+33954,12015,Charlotte,"Port Charlotte, FL",9290,1
+33955,12015,Charlotte,"Punta Gorda, FL",8233,0.8184
+33980,12015,Charlotte,"Port Charlotte, FL",10322,1
+33981,12015,Charlotte,"Port Charlotte, FL",9534,1
+33982,12015,Charlotte,"Punta Gorda, FL",9176,1
+33983,12015,Charlotte,"Punta Gorda, FL",13954,1
+34223,12015,Charlotte,"Englewood, FL",2726,0.1615
+34224,12015,Charlotte,"Englewood, FL",15348,0.997
+34428,12017,Citrus,"Crystal River, FL",9109,1
+34429,12017,Citrus,"Crystal River, FL",8563,1
+34433,12017,Citrus,"Dunnellon, FL",6647,1
+34434,12017,Citrus,"Citrus Springs, FL",8191,1
+34436,12017,Citrus,"Floral City, FL",7938,1
+34442,12017,Citrus,"Hernando, FL",14568,1
+34445,12017,Citrus,"Pine Ridge, FL",44,1
+34446,12017,Citrus,"Sugarmill Woods, FL",16326,1
+34448,12017,Citrus,"Homosassa Springs, FL",10797,1
+34449,12017,Citrus,"Inglis, FL",297,0.1057
+34450,12017,Citrus,"Inverness, FL",10293,1
+34452,12017,Citrus,"Inverness Highlands South, FL",11919,1
+34453,12017,Citrus,"Inverness, FL",10112,1
+34461,12017,Citrus,"Lecanto, FL",10562,1
+34465,12017,Citrus,"Beverly Hills, FL",15870,1
+32003,12019,Clay,"Fleming Island, FL",27126,1
+32043,12019,Clay,"Green Cove Springs, FL",24460,0.993
+32058,12019,Clay,"Lawtey, FL",29,0.0066
+32065,12019,Clay,"Lakeside, FL",32770,1
+32068,12019,Clay,"Middleburg, FL",50815,1
+32073,12019,Clay,"Bellair-Meadowbrook Terrace, FL",38538,0.9902
+32079,12019,Clay,"Penney Farms, FL",433,1
+32091,12019,Clay,"Starke, FL",445,0.0288
+32234,12019,Clay,"Jacksonville, FL",2300,0.3482
+32656,12019,Clay,"Keystone Heights, FL",12700,0.9062
+32666,12019,Clay,"Melrose, FL",1249,0.2111
+34101,12021,Collier,"Naples, FL",10,1
+34102,12021,Collier,"Naples, FL",10460,1
+34103,12021,Collier,"Naples, FL",12150,1
+34104,12021,Collier,"Naples, FL",23691,1
+34105,12021,Collier,"Naples, FL",13933,1
+34108,12021,Collier,"Pelican Bay, FL",16874,1
+34109,12021,Collier,"Naples, FL",23338,1
+34110,12021,Collier,"Naples, FL",20602,0.9923
+34112,12021,Collier,"Naples, FL",27002,1
+34113,12021,Collier,"Naples Manor, FL",17971,1
+34114,12021,Collier,"Naples, FL",13653,1
+34116,12021,Collier,"Golden Gate, FL",30005,1
+34117,12021,Collier,"Naples, FL",14250,1
+34119,12021,Collier,"Naples, FL",25674,0.9968
+34120,12021,Collier,"Naples, FL",26147,1
+34134,12021,Collier,"Bonita Springs, FL",1769,0.1254
+34137,12021,Collier,"Copeland, FL (PO Boxes)",227,1
+34138,12021,Collier,"Chokoloskee, FL",359,1
+34139,12021,Collier,"Everglades, FL",561,1
+34140,12021,Collier,"Goodland, FL",273,1
+34141,12021,Collier,"Ochopee, FL",226,0.9741
+34142,12021,Collier,"Immokalee, FL",25938,0.95
+34145,12021,Collier,"Marco Island, FL",16407,1
+32024,12023,Columbia,"Lake City, FL",16635,0.888
+32025,12023,Columbia,"Lake City, FL",22380,1
+32038,12023,Columbia,"Fort White, FL",9228,1
+32055,12023,Columbia,"Lake City, FL",16570,1
+32061,12023,Columbia,"Lulu, FL",283,1
+32094,12023,Columbia,"Wellborn, FL",205,0.0753
+32096,12023,Columbia,"White Springs, FL",901,0.3419
+32643,12023,Columbia,"High Springs, FL",1329,0.1215
+34266,12027,DeSoto,"Arcadia, FL",31027,0.9991
+34268,12027,DeSoto,"Nocatee, FL (PO Boxes)",220,1
+34269,12027,DeSoto,"Arcadia, FL",3615,1
+32008,12029,Dixie,"Branford, FL",131,0.0247
+32359,12029,Dixie,"Steinhatchee, FL",485,0.2818
+32628,12029,Dixie,"Cross City, FL (PO Boxes)",4850,1
+32648,12029,Dixie,"Horseshoe Beach, FL",437,1
+32680,12029,Dixie,"Old Town, FL",10223,1
+32692,12029,Dixie,"Suwannee, FL (PO Boxes)",295,1
+32073,12031,Duval,"Bellair-Meadowbrook Terrace, FL",382,0.0098
+32202,12031,Duval,"Jacksonville, FL",7915,1
+32204,12031,Duval,"Jacksonville, FL",6906,1
+32205,12031,Duval,"Jacksonville, FL",28225,1
+32206,12031,Duval,"Jacksonville, FL",17669,1
+32207,12031,Duval,"Jacksonville, FL",33306,1
+32208,12031,Duval,"Jacksonville, FL",30879,1
+32209,12031,Duval,"Jacksonville, FL",34305,1
+32210,12031,Duval,"Jacksonville, FL",59080,1
+32211,12031,Duval,"Jacksonville, FL",30501,1
+32212,12031,Duval,"Jacksonville, FL",1959,1
+32216,12031,Duval,"Jacksonville, FL",34876,1
+32217,12031,Duval,"Jacksonville, FL",18817,1
+32218,12031,Duval,"Jacksonville, FL",53473,1
+32219,12031,Duval,"Jacksonville, FL",11886,1
+32220,12031,Duval,"Jacksonville, FL",12946,1
+32221,12031,Duval,"Jacksonville, FL",27918,1
+32222,12031,Duval,"Jacksonville, FL",8691,1
+32223,12031,Duval,"Jacksonville, FL",23980,1
+32224,12031,Duval,"Jacksonville, FL",38890,0.9989
+32225,12031,Duval,"Jacksonville, FL",52485,1
+32226,12031,Duval,"Jacksonville, FL",15761,1
+32227,12031,Duval,"Jacksonville, FL",2149,1
+32228,12031,Duval,"Jacksonville, FL",314,1
+32233,12031,Duval,"Atlantic Beach, FL",23673,1
+32234,12031,Duval,"Jacksonville, FL",3967,0.6005
+32244,12031,Duval,"Jacksonville, FL",57369,1
+32246,12031,Duval,"Jacksonville, FL",48789,1
+32250,12031,Duval,"Jacksonville Beach, FL",25356,1
+32254,12031,Duval,"Jacksonville, FL",13570,1
+32256,12031,Duval,"Jacksonville, FL",38483,1
+32257,12031,Duval,"Jacksonville, FL",36430,1
+32258,12031,Duval,"Jacksonville, FL",26759,1
+32266,12031,Duval,"Neptune Beach, FL",7037,1
+32277,12031,Duval,"Jacksonville, FL",29517,1
+32501,12033,Escambia,"Pensacola, FL",11730,1
+32502,12033,Escambia,"Pensacola, FL",3298,1
+32503,12033,Escambia,"Pensacola, FL",32011,1
+32504,12033,Escambia,"Pensacola, FL",21441,1
+32505,12033,Escambia,"West Pensacola, FL",28213,1
+32506,12033,Escambia,"Myrtle Grove, FL",33846,1
+32507,12033,Escambia,"Warrington, FL",28996,1
+32508,12033,Escambia,"Pensacola, FL",5852,1
+32509,12033,Escambia,"Pensacola, FL",660,1
+32511,12033,Escambia,"Myrtle Grove, FL",1145,1
+32514,12033,Escambia,"Ferry Pass, FL",37399,1
+32526,12033,Escambia,"Bellview, FL",36297,1
+32533,12033,Escambia,"Cantonment, FL",26493,1
+32534,12033,Escambia,"Ensley, FL",14029,1
+32535,12033,Escambia,"Century, FL",6326,1
+32561,12033,Escambia,"Gulf Breeze, FL",2136,0.2704
+32568,12033,Escambia,"Mc David, FL",3122,1
+32577,12033,Escambia,"Molino, FL",4625,1
+32110,12035,Flagler,"Bunnell, FL",7600,1
+32136,12035,Flagler,"Flagler Beach, FL",6895,0.9739
+32137,12035,Flagler,"Palm Coast, FL",37821,1
+32164,12035,Flagler,"Palm Coast, FL",41616,1
+32174,12035,Flagler,"Ormond Beach, FL",1750,0.0368
+32180,12035,Flagler,"Pierson, FL",14,0.0033
+32320,12037,Franklin,"Apalachicola, FL",3858,1
+32322,12037,Franklin,"Carrabelle, FL",4007,1
+32323,12037,Franklin,"Lanark Village, FL",217,1
+32328,12037,Franklin,"Eastpoint, FL",3149,1
+32346,12037,Franklin,"Panacea, FL",234,0.1382
+32358,12037,Franklin,"Sopchoppy, FL",84,0.0392
+32324,12039,Gadsden,"Chattahoochee, FL",5445,1
+32330,12039,Gadsden,"Greensboro, FL",804,1
+32332,12039,Gadsden,"Gretna, FL",1642,1
+32333,12039,Gadsden,"Havana, FL",11330,1
+32343,12039,Gadsden,"Midway, FL",3044,1
+32351,12039,Gadsden,"Quincy, FL",17486,1
+32352,12039,Gadsden,"Quincy, FL",6638,1
+32008,12041,Gilchrist,"Branford, FL",1056,0.1989
+32619,12041,Gilchrist,"Bell, FL",4730,1
+32643,12041,Gilchrist,"High Springs, FL",2005,0.1833
+32669,12041,Gilchrist,"Newberry, FL",740,0.0637
+32693,12041,Gilchrist,"Trenton, FL",8408,0.6918
+33471,12043,Glades,"Moore Haven, FL",6818,1
+33935,12043,Glades,"Labelle, FL",3233,0.1586
+33944,12043,Glades,"Palmdale, FL (PO Boxes)",298,1
+33960,12043,Glades,"Venus, FL",27,0.0316
+34974,12043,Glades,"Okeechobee, FL",2508,0.106
+32456,12045,Gulf,"Port St. Joe, FL",6631,0.9519
+32465,12045,Gulf,"Wewahitchka, FL",9232,1
+32052,12047,Hamilton,"Jasper, FL",9223,1
+32053,12047,Hamilton,"Jennings, FL",3869,1
+32096,12047,Hamilton,"White Springs, FL",1707,0.6478
+33825,12049,Hardee,"Avon Park, FL",73,0.0029
+33834,12049,Hardee,"Bowling Green, FL",7070,0.9492
+33865,12049,Hardee,"Ona, FL",786,1
+33873,12049,Hardee,"Wauchula, FL",14742,1
+33890,12049,Hardee,"Zolfo Springs, FL",5060,1
+33440,12051,Hendry,"Clewiston, FL",19478,0.9866
+33930,12051,Hendry,"Felda, FL (PO Boxes)",1075,1
+33935,12051,Hendry,"Labelle, FL",17150,0.8414
+33936,12051,Hendry,"Lehigh Acres, FL",71,0.0037
+34142,12051,Hendry,"Immokalee, FL",1366,0.05
+33523,12053,Hernando,"Dade City, FL",4385,0.2394
+33597,12053,Hernando,"Webster, FL",1336,0.1665
+34601,12053,Hernando,"Brooksville, FL",22336,1
+34602,12053,Hernando,"Brooksville, FL",7346,1
+34604,12053,Hernando,"Spring Hill, FL",10003,1
+34606,12053,Hernando,"Spring Hill, FL",26208,1
+34607,12053,Hernando,"Spring Hill, FL",8133,1
+34608,12053,Hernando,"Spring Hill, FL",31099,1
+34609,12053,Hernando,"Spring Hill, FL",37129,1
+34613,12053,Hernando,"North Weeki Wachee, FL",17814,1
+34614,12053,Hernando,"Brooksville, FL",6692,1
+34661,12053,Hernando,"Nobleton, FL",297,1
+33825,12055,Highlands,"Avon Park, FL",23044,0.9239
+33852,12055,Highlands,"Lake Placid, FL",21790,1
+33857,12055,Highlands,"Lorida, FL",1728,1
+33870,12055,Highlands,"Sebring, FL",20601,1
+33872,12055,Highlands,"Sebring, FL",14158,1
+33875,12055,Highlands,"Sebring, FL",11108,1
+33876,12055,Highlands,"Sebring, FL",4968,1
+33960,12055,Highlands,"Venus, FL",827,0.9684
+34974,12055,Highlands,"Okeechobee, FL",562,0.0238
+33503,12057,Hillsborough,"Balm, FL",108,1
+33510,12057,Hillsborough,"Brandon, FL",27610,1
+33511,12057,Hillsborough,"Brandon, FL",52003,1
+33527,12057,Hillsborough,"Dover, FL",15203,1
+33534,12057,Hillsborough,"Gibsonton, FL",12839,1
+33540,12057,Hillsborough,"Zephyrhills, FL",84,0.0096
+33547,12057,Hillsborough,"Fish Hawk, FL",19813,1
+33548,12057,Hillsborough,"Lutz, FL",5651,0.9731
+33549,12057,Hillsborough,"Lutz, FL",12324,0.7639
+33556,12057,Hillsborough,"Keystone, FL",15751,0.7155
+33558,12057,Hillsborough,"Cheval, FL",17142,0.8544
+33559,12057,Hillsborough,"Land O Lakes, FL",8171,0.5297
+33563,12057,Hillsborough,"Plant City, FL",25488,1
+33565,12057,Hillsborough,"Plant City, FL",17975,1
+33566,12057,Hillsborough,"Plant City, FL",19522,1
+33567,12057,Hillsborough,"Plant City, FL",11505,1
+33569,12057,Hillsborough,"Riverview, FL",23074,1
+33570,12057,Hillsborough,"Ruskin, FL",20758,1
+33572,12057,Hillsborough,"Apollo Beach, FL",14117,1
+33573,12057,Hillsborough,"Sun City Center, FL",19172,1
+33578,12057,Hillsborough,"Riverview, FL",36693,1
+33579,12057,Hillsborough,"Riverview, FL",25723,1
+33584,12057,Hillsborough,"Seffner, FL",25392,1
+33592,12057,Hillsborough,"Thonotosassa, FL",10091,1
+33594,12057,Hillsborough,"Valrico, FL",32677,1
+33596,12057,Hillsborough,"Bloomingdale, FL",29283,1
+33598,12057,Hillsborough,"Wimauma, FL",13505,0.9883
+33602,12057,Hillsborough,"Tampa, FL",11515,1
+33603,12057,Hillsborough,"Tampa, FL",19100,1
+33604,12057,Hillsborough,"Tampa, FL",35485,1
+33605,12057,Hillsborough,"Tampa, FL",17073,1
+33606,12057,Hillsborough,"Tampa, FL",17746,1
+33607,12057,Hillsborough,"Tampa, FL",23541,1
+33609,12057,Hillsborough,"Tampa, FL",15999,1
+33610,12057,Hillsborough,"Tampa, FL",39222,1
+33611,12057,Hillsborough,"Tampa, FL",29478,1
+33612,12057,Hillsborough,"Tampa, FL",44601,1
+33613,12057,Hillsborough,"University, FL",31990,1
+33614,12057,Hillsborough,"Egypt Lake-Leto, FL",46449,1
+33615,12057,Hillsborough,"Town n Country, FL",43453,1
+33616,12057,Hillsborough,"Tampa, FL",13560,1
+33617,12057,Hillsborough,"Temple Terrace, FL",41443,1
+33618,12057,Hillsborough,"Carrollwood, FL",25570,1
+33619,12057,Hillsborough,"Palm River-Clair Mel, FL",34581,1
+33620,12057,Hillsborough,"Tampa, FL",5158,1
+33621,12057,Hillsborough,"Tampa, FL",1643,1
+33624,12057,Hillsborough,"Carrollwood, FL",37457,1
+33625,12057,Hillsborough,"Citrus Park, FL",24645,1
+33626,12057,Hillsborough,"Westchase, FL",27557,1
+33629,12057,Hillsborough,"Tampa, FL",23638,1
+33634,12057,Hillsborough,"Town n Country, FL",20225,1
+33635,12057,Hillsborough,"Town n Country, FL",15741,1
+33637,12057,Hillsborough,"Temple Terrace, FL",15351,1
+33647,12057,Hillsborough,"Tampa, FL",55034,1
+33810,12057,Hillsborough,"Lakeland, FL",297,0.0067
+32425,12059,Holmes,"Bonifay, FL",13128,0.9201
+32440,12059,Holmes,"Graceville, FL",1255,0.1659
+32455,12059,Holmes,"Ponce De Leon, FL",2114,0.4464
+32464,12059,Holmes,"Westville, FL",3430,0.8588
+32948,12061,Indian River,"Fellsmere, FL",6721,0.9923
+32958,12061,Indian River,"Sebastian, FL",25366,1
+32960,12061,Indian River,"Vero Beach, FL",20037,1
+32962,12061,Indian River,"Florida Ridge, FL",22716,1
+32963,12061,Indian River,"Vero Beach, FL",14911,1
+32966,12061,Indian River,"West Vero Corridor, FL",15626,1
+32967,12061,Indian River,"Vero Beach, FL",19518,1
+32968,12061,Indian River,"Vero Beach South, FL",12830,1
+32970,12061,Indian River,"Wabasso, FL (PO Boxes)",303,1
+32420,12063,Jackson,"Alford, FL",2124,0.9907
+32423,12063,Jackson,"Bascom, FL",1264,1
+32426,12063,Jackson,"Campbellton, FL",942,1
+32431,12063,Jackson,"Cottondale, FL",4232,0.8493
+32432,12063,Jackson,"Cypress, FL (PO Boxes)",89,1
+32440,12063,Jackson,"Graceville, FL",6308,0.8341
+32442,12063,Jackson,"Grand Ridge, FL",3529,0.954
+32443,12063,Jackson,"Greenwood, FL",2921,1
+32445,12063,Jackson,"Malone, FL",2644,1
+32446,12063,Jackson,"Marianna, FL",11075,1
+32447,12063,Jackson,"Marianna, FL",78,1
+32448,12063,Jackson,"Marianna, FL",8684,1
+32460,12063,Jackson,"Sneads, FL",5856,1
+32331,12065,Jefferson,"Greenville, FL",450,0.1061
+32336,12065,Jefferson,"Lamont, FL",866,0.6226
+32344,12065,Jefferson,"Monticello, FL",13193,1
+32361,12065,Jefferson,"Wacissa, FL",252,1
+32008,12067,Lafayette,"Branford, FL",1558,0.2935
+32066,12067,Lafayette,"Mayo, FL",7312,1
+32102,12069,Lake,"Astor, FL",1999,0.7793
+32134,12069,Lake,"Fort Mc Coy, FL",24,0.003
+32159,12069,Lake,"Lady Lake, FL",20085,0.6958
+32195,12069,Lake,"Weirsdale, FL",340,0.1022
+32702,12069,Lake,"Altoona, FL",2431,0.8987
+32720,12069,Lake,"Deland, FL",2482,0.0836
+32726,12069,Lake,"Eustis, FL",20029,1
+32735,12069,Lake,"Grand Island, FL",3903,1
+32736,12069,Lake,"Eustis, FL",9736,1
+32757,12069,Lake,"Mount Dora, FL",19287,0.8122
+32767,12069,Lake,"Lake Kathryn, FL",2622,1
+32776,12069,Lake,"Sorrento, FL",10178,0.9918
+32778,12069,Lake,"Tavares, FL",18617,1
+32784,12069,Lake,"Umatilla, FL",8069,0.7058
+34705,12069,Lake,"Astatula, FL",2500,1
+34711,12069,Lake,"Clermont, FL",51847,1
+34714,12069,Lake,"Four Corners, FL",13238,0.9015
+34715,12069,Lake,"Minneola, FL",15455,1
+34731,12069,Lake,"Fruitland Park, FL",10815,1
+34736,12069,Lake,"Groveland, FL",13961,1
+34737,12069,Lake,"Howey In The Hills, FL",2523,1
+34748,12069,Lake,"Leesburg, FL",38246,1
+34753,12069,Lake,"Mascotte, FL",5353,1
+34756,12069,Lake,"Montverde, FL",3006,1
+34762,12069,Lake,"Okahumpka, FL",622,1
+34787,12069,Lake,"Winter Garden, FL",872,0.0189
+34788,12069,Lake,"Leesburg, FL",17519,1
+34797,12069,Lake,"Yalaha, FL",1293,1
+33901,12071,Lee,"Fort Myers, FL",19500,1
+33903,12071,Lee,"North Fort Myers, FL",20776,1
+33904,12071,Lee,"Cape Coral, FL",30613,1
+33905,12071,Lee,"Fort Myers, FL",31203,1
+33907,12071,Lee,"Villas, FL",22138,1
+33908,12071,Lee,"Fort Myers, FL",38251,1
+33909,12071,Lee,"Cape Coral, FL",23119,1
+33912,12071,Lee,"Fort Myers, FL",15392,1
+33913,12071,Lee,"Gateway, FL",17103,1
+33914,12071,Lee,"Cape Coral, FL",35848,1
+33916,12071,Lee,"Fort Myers, FL",20134,1
+33917,12071,Lee,"North Fort Myers, FL",28533,0.9954
+33919,12071,Lee,"Cypress Lake, FL",27837,1
+33920,12071,Lee,"Alva, FL",4947,1
+33921,12071,Lee,"Boca Grande, FL (PO Boxes)",1324,0.7698
+33922,12071,Lee,"Pine Island Center, FL",4055,1
+33924,12071,Lee,"Captiva, FL",761,1
+33928,12071,Lee,"Estero, FL",20830,1
+33931,12071,Lee,"Fort Myers Beach, FL",10005,1
+33936,12071,Lee,"Lehigh Acres, FL",18923,0.9963
+33945,12071,Lee,"Pineland, FL (PO Boxes)",57,1
+33955,12071,Lee,"Punta Gorda, FL",1827,0.1816
+33956,12071,Lee,"St. James City, FL",3776,1
+33957,12071,Lee,"Sanibel, FL",6469,1
+33965,12071,Lee,"Florida Gulf Coast Univ, Fort Myers, FL",1648,1
+33966,12071,Lee,"Fort Myers, FL",8251,1
+33967,12071,Lee,"San Carlos Park, FL",22799,1
+33971,12071,Lee,"Lehigh Acres, FL",19730,1
+33972,12071,Lee,"Lehigh Acres, FL",10880,1
+33973,12071,Lee,"Lehigh Acres, FL",10798,1
+33974,12071,Lee,"Lehigh Acres, FL",11982,1
+33976,12071,Lee,"Lehigh Acres, FL",12534,1
+33990,12071,Lee,"Cape Coral, FL",28173,1
+33991,12071,Lee,"Cape Coral, FL",18010,1
+33993,12071,Lee,"Cape Coral, FL",20628,1
+34110,12071,Lee,"Naples, FL",160,0.0077
+34119,12071,Lee,"Naples, FL",82,0.0032
+34134,12071,Lee,"Bonita Springs, FL",12343,0.8746
+34135,12071,Lee,"Bonita Springs, FL",37315,1
+32301,12073,Leon,"Tallahassee, FL",29321,1
+32303,12073,Leon,"Tallahassee, FL",47359,1
+32304,12073,Leon,"Tallahassee, FL",46145,1
+32305,12073,Leon,"Tallahassee, FL",20073,1
+32308,12073,Leon,"Tallahassee, FL",21586,1
+32309,12073,Leon,"Tallahassee, FL",30159,1
+32310,12073,Leon,"Tallahassee, FL",17402,1
+32311,12073,Leon,"Tallahassee, FL",17493,1
+32312,12073,Leon,"Tallahassee, FL",31869,1
+32317,12073,Leon,"Tallahassee, FL",14067,1
+32327,12073,Leon,"Crawfordville, FL",10,0.0004
+32399,12073,Leon,"Tallahassee, FL",2,1
+32618,12075,Levy,"Archer, FL",1848,0.239
+32621,12075,Levy,"Bronson, FL",5584,1
+32625,12075,Levy,"Cedar Key, FL",1838,1
+32626,12075,Levy,"Chiefland, FL",8133,1
+32639,12075,Levy,"Gulf Hammock, FL (PO Boxes)",397,1
+32668,12075,Levy,"Morriston, FL",4266,0.8394
+32669,12075,Levy,"Newberry, FL",74,0.0064
+32683,12075,Levy,"Otter Creek, FL",151,1
+32693,12075,Levy,"Trenton, FL",3746,0.3082
+32696,12075,Levy,"Williston, FL",11019,0.9128
+34431,12075,Levy,"Dunnellon, FL",705,0.0902
+34449,12075,Levy,"Inglis, FL",2512,0.8943
+34498,12075,Levy,"Yankeetown, FL",513,1
+32321,12077,Liberty,"Bristol, FL",6460,1
+32334,12077,Liberty,"Hosford, FL",1904,1
+32059,12079,Madison,"Lee, FL",2377,1
+32331,12079,Madison,"Greenville, FL",3258,0.768
+32336,12079,Madison,"Lamont, FL",364,0.2617
+32340,12079,Madison,"Madison, FL",11808,1
+32350,12079,Madison,"Pinetta, FL",1417,1
+33598,12081,Manatee,"Wimauma, FL",160,0.0117
+33834,12081,Manatee,"Bowling Green, FL",132,0.0177
+34201,12081,Manatee,"Bradenton, FL",3682,1
+34202,12081,Manatee,"Bradenton, FL",19816,1
+34203,12081,Manatee,"Bradenton, FL",34862,1
+34205,12081,Manatee,"Bradenton, FL",29656,1
+34207,12081,Manatee,"Bayshore Gardens, FL",29728,1
+34208,12081,Manatee,"Bradenton, FL",33121,1
+34209,12081,Manatee,"Bradenton, FL",31816,1
+34210,12081,Manatee,"Bradenton, FL",15916,1
+34211,12081,Manatee,"Bradenton, FL",2775,1
+34212,12081,Manatee,"Bradenton, FL",15146,1
+34215,12081,Manatee,"Cortez, FL",768,1
+34216,12081,Manatee,"Anna Maria, FL",1503,1
+34217,12081,Manatee,"Holmes Beach, FL",5007,1
+34219,12081,Manatee,"Parrish, FL",17135,1
+34221,12081,Manatee,"Palmetto, FL",39457,1
+34222,12081,Manatee,"Ellenton, FL",11952,1
+34228,12081,Manatee,"Longboat Key, FL",2398,0.3481
+34243,12081,Manatee,"Sarasota, FL",21538,0.8247
+34251,12081,Manatee,"Myakka City, FL",6265,0.9865
+32113,12083,Marion,"Citra, FL",6627,1
+32133,12083,Marion,"Eastlake Weir, FL (PO Boxes)",137,1
+32134,12083,Marion,"Fort Mc Coy, FL",7826,0.9681
+32162,12083,Marion,"The Villages, FL",8008,0.1772
+32179,12083,Marion,"Ocklawaha, FL",8156,1
+32195,12083,Marion,"Weirsdale, FL",2988,0.8978
+32617,12083,Marion,"Anthony, FL",4109,1
+32664,12083,Marion,"McIntosh, FL",510,1
+32667,12083,Marion,"Micanopy, FL",1654,0.436
+32668,12083,Marion,"Morriston, FL",816,0.1606
+32681,12083,Marion,"Orange Lake, FL (PO Boxes)",136,1
+32686,12083,Marion,"Reddick, FL",5003,1
+32696,12083,Marion,"Williston, FL",1052,0.0872
+32702,12083,Marion,"Altoona, FL",274,0.1013
+32784,12083,Marion,"Umatilla, FL",3363,0.2942
+34420,12083,Marion,"Belleview, FL",16287,1
+34431,12083,Marion,"Dunnellon, FL",7110,0.9098
+34432,12083,Marion,"Dunnellon, FL",12273,1
+34470,12083,Marion,"Ocala, FL",17838,1
+34471,12083,Marion,"Ocala, FL",25152,1
+34472,12083,Marion,"Ocala, FL",25968,1
+34473,12083,Marion,"Ocala, FL",17029,1
+34474,12083,Marion,"Ocala, FL",16062,1
+34475,12083,Marion,"Ocala, FL",12177,1
+34476,12083,Marion,"Ocala, FL",20862,1
+34479,12083,Marion,"Ocala, FL",13032,1
+34480,12083,Marion,"Ocala, FL",19068,1
+34481,12083,Marion,"Ocala, FL",17536,1
+34482,12083,Marion,"Ocala, FL",22500,1
+34488,12083,Marion,"Silver Springs, FL",10291,1
+34491,12083,Marion,"Summerfield, FL",27454,1
+33438,12085,Martin,"Canal Point, FL",31,0.0675
+33455,12085,Martin,"Hobe Sound, FL",19980,1
+33458,12085,Martin,"Jupiter, FL",961,0.0195
+33469,12085,Martin,"Jupiter, FL",4741,0.3281
+33478,12085,Martin,"Jupiter Farms, FL",445,0.035
+34956,12085,Martin,"Indiantown, FL",9874,1
+34957,12085,Martin,"Jensen Beach, FL",16608,0.7462
+34974,12085,Martin,"Okeechobee, FL",461,0.0195
+34990,12085,Martin,"Palm City, FL",26724,0.9645
+34994,12085,Martin,"Stuart, FL",15439,0.9669
+34996,12085,Martin,"Stuart, FL",10649,1
+34997,12085,Martin,"Stuart, FL",40405,1
+33010,12086,Miami-Dade,"Hialeah, FL",46187,1
+33012,12086,Miami-Dade,"Hialeah, FL",72248,1
+33013,12086,Miami-Dade,"Hialeah, FL",33852,1
+33014,12086,Miami-Dade,"Hialeah, FL",40654,1
+33015,12086,Miami-Dade,"Country Club, FL",63544,1
+33016,12086,Miami-Dade,"Hialeah, FL",45342,1
+33018,12086,Miami-Dade,"Hialeah, FL",46117,1
+33030,12086,Miami-Dade,"Homestead, FL",34110,1
+33031,12086,Miami-Dade,"Homestead, FL",5859,1
+33032,12086,Miami-Dade,"Princeton, FL",34088,1
+33033,12086,Miami-Dade,"Leisure City, FL",49028,1
+33034,12086,Miami-Dade,"Florida City, FL",18610,0.9998
+33035,12086,Miami-Dade,"Homestead, FL",13497,1
+33039,12086,Miami-Dade,"Homestead, FL",122,1
+33054,12086,Miami-Dade,"Opa-locka, FL",29061,1
+33055,12086,Miami-Dade,"Miami Gardens, FL",43194,1
+33056,12086,Miami-Dade,"Miami Gardens, FL",35059,1
+33109,12086,Miami-Dade,"Miami Beach, FL",594,1
+33122,12086,Miami-Dade,"Miami, FL",1,1
+33125,12086,Miami-Dade,"Miami, FL",52677,1
+33126,12086,Miami-Dade,"Miami, FL",46867,1
+33127,12086,Miami-Dade,"Miami, FL",28909,1
+33128,12086,Miami-Dade,"Miami, FL",7562,1
+33129,12086,Miami-Dade,"Miami, FL",13833,1
+33130,12086,Miami-Dade,"Miami, FL",26108,1
+33131,12086,Miami-Dade,"Miami, FL",14917,1
+33132,12086,Miami-Dade,"Miami, FL",11165,1
+33133,12086,Miami-Dade,"Miami, FL",31926,1
+33134,12086,Miami-Dade,"Coral Gables, FL",37456,1
+33135,12086,Miami-Dade,"Miami, FL",36066,1
+33136,12086,Miami-Dade,"Miami, FL",13791,1
+33137,12086,Miami-Dade,"Miami, FL",19410,1
+33138,12086,Miami-Dade,"Miami, FL",27571,1
+33139,12086,Miami-Dade,"Miami Beach, FL",38613,1
+33140,12086,Miami-Dade,"Miami Beach, FL",21210,1
+33141,12086,Miami-Dade,"Miami Beach, FL",35249,1
+33142,12086,Miami-Dade,"Miami, FL",52606,1
+33143,12086,Miami-Dade,"Glenvar Heights, FL",31407,1
+33144,12086,Miami-Dade,"Miami, FL",26903,1
+33145,12086,Miami-Dade,"Miami, FL",29758,1
+33146,12086,Miami-Dade,"Coral Gables, FL",14995,1
+33147,12086,Miami-Dade,"West Little River, FL",46933,1
+33149,12086,Miami-Dade,"Key Biscayne, FL",12389,1
+33150,12086,Miami-Dade,"Miami, FL",27811,1
+33154,12086,Miami-Dade,"Surfside, FL",13971,1
+33155,12086,Miami-Dade,"Coral Terrace, FL",43788,1
+33156,12086,Miami-Dade,"Pinecrest, FL",31315,1
+33157,12086,Miami-Dade,"Palmetto Bay, FL",63226,1
+33158,12086,Miami-Dade,"Palmetto Bay, FL",6694,1
+33160,12086,Miami-Dade,"Sunny Isles Beach, FL",40053,1
+33161,12086,Miami-Dade,"North Miami, FL",53710,1
+33162,12086,Miami-Dade,"North Miami Beach, FL",43539,1
+33165,12086,Miami-Dade,"University Park, FL",56149,1
+33166,12086,Miami-Dade,"Miami Springs, FL",23038,1
+33167,12086,Miami-Dade,"Westview, FL",18846,1
+33168,12086,Miami-Dade,"North Miami, FL",25792,1
+33169,12086,Miami-Dade,"Miami Gardens, FL",39353,1
+33170,12086,Miami-Dade,"Goulds, FL",12253,1
+33172,12086,Miami-Dade,"Fountainebleau, FL",37664,1
+33173,12086,Miami-Dade,"Kendall, FL",33141,1
+33174,12086,Miami-Dade,"Sweetwater, FL",32524,1
+33175,12086,Miami-Dade,"Tamiami, FL",53206,1
+33176,12086,Miami-Dade,"Kendall, FL",50170,1
+33177,12086,Miami-Dade,"South Miami Heights, FL",53191,1
+33178,12086,Miami-Dade,"Doral, FL",39489,1
+33179,12086,Miami-Dade,"Ives Estates, FL",41332,1
+33180,12086,Miami-Dade,"Aventura, FL",30840,1
+33181,12086,Miami-Dade,"North Miami, FL",18413,1
+33182,12086,Miami-Dade,"Tamiami, FL",16929,1
+33183,12086,Miami-Dade,"Kendale Lakes, FL",35949,1
+33184,12086,Miami-Dade,"Tamiami, FL",21075,1
+33185,12086,Miami-Dade,"Miami, FL",27189,1
+33186,12086,Miami-Dade,"The Crossings, FL",67137,1
+33187,12086,Miami-Dade,"Richmond West, FL",16315,1
+33189,12086,Miami-Dade,"Cutler Bay, FL",23828,1
+33190,12086,Miami-Dade,"Cutler Bay, FL",11593,1
+33193,12086,Miami-Dade,"Kendall West, FL",46044,1
+33194,12086,Miami-Dade,"Miami, FL",7742,1
+33196,12086,Miami-Dade,"The Hammocks, FL",43620,1
+33001,12087,Monroe,"Layton, FL",315,1
+33034,12087,Monroe,"Florida City, FL",3,0.0002
+33036,12087,Monroe,"Islamorada, Village of Islands, FL",3035,1
+33037,12087,Monroe,"Key Largo, FL",11612,1
+33040,12087,Monroe,"Key West, FL",32891,1
+33042,12087,Monroe,"Summerland Key, FL",5829,1
+33043,12087,Monroe,"Big Pine Key, FL",4313,1
+33050,12087,Monroe,"Marathon, FL",8922,1
+33051,12087,Monroe,"Key Colony Beach, FL",796,1
+33070,12087,Monroe,"Islamorada, Village of Islands, FL",5344,1
+34141,12087,Monroe,"Ochopee, FL",6,0.0259
+99999,12087,Monroe,99999,24,0.2857
+32009,12089,Nassau,"Bryceville, FL",3325,1
+32011,12089,Nassau,"Callahan, FL",13854,1
+32034,12089,Nassau,"Fernandina Beach, FL",31008,1
+32046,12089,Nassau,"Hilliard, FL",9410,1
+32097,12089,Nassau,"Yulee, FL",15616,1
+32234,12089,Nassau,"Jacksonville, FL",101,0.0153
+32531,12091,Okaloosa,"Baker, FL",5256,0.9924
+32536,12091,Okaloosa,"Crestview, FL",19709,1
+32539,12091,Okaloosa,"Crestview, FL",24570,0.9797
+32541,12091,Okaloosa,"Destin, FL",15565,1
+32542,12091,Okaloosa,"Eglin AFB, FL",3457,1
+32544,12091,Okaloosa,"Hurlburt Field, FL",1818,1
+32547,12091,Okaloosa,"Wright, FL",32485,1
+32548,12091,Okaloosa,"Fort Walton Beach, FL",19343,1
+32564,12091,Okaloosa,"Holt, FL",2432,0.8442
+32567,12091,Okaloosa,"Laurel Hill, FL",2025,0.5769
+32569,12091,Okaloosa,"Mary Esther, FL",11235,1
+32578,12091,Okaloosa,"Niceville, FL",29268,0.9721
+32579,12091,Okaloosa,"Lake Lorraine, FL",9997,1
+32580,12091,Okaloosa,"Valparaiso, FL",3662,1
+34972,12093,Okeechobee,"Okeechobee, FL",19866,0.9844
+34974,12093,Okeechobee,"Okeechobee, FL",20130,0.8508
+32703,12095,Orange,"Apopka, FL",35120,0.7601
+32709,12095,Orange,"Christmas, FL",2566,1
+32712,12095,Orange,"Apopka, FL",41769,1
+32751,12095,Orange,"Maitland, FL",14097,0.7074
+32757,12095,Orange,"Mount Dora, FL",4459,0.1878
+32776,12095,Orange,"Sorrento, FL",84,0.0082
+32789,12095,Orange,"Winter Park, FL",24557,1
+32792,12095,Orange,"Winter Park, FL",26998,0.5755
+32798,12095,Orange,"Zellwood, FL",2550,1
+32801,12095,Orange,"Orlando, FL",12050,1
+32803,12095,Orange,"Orlando, FL",19020,1
+32804,12095,Orange,"Orlando, FL",17312,1
+32805,12095,Orange,"Orlando, FL",21810,1
+32806,12095,Orange,"Orlando, FL",24820,1
+32807,12095,Orange,"Orlando, FL",31465,1
+32808,12095,Orange,"Pine Hills, FL",46334,1
+32809,12095,Orange,"Pine Castle, FL",26773,1
+32810,12095,Orange,"Lockhart, FL",32210,1
+32811,12095,Orange,"Orlando, FL",35825,1
+32812,12095,Orange,"Orlando, FL",32844,1
+32814,12095,Orange,"Orlando, FL",6151,1
+32817,12095,Orange,"Orlando, FL",35105,1
+32818,12095,Orange,"Pine Hills, FL",43911,1
+32819,12095,Orange,"Orlando, FL",24976,1
+32820,12095,Orange,"Bithlo, FL",7974,1
+32821,12095,Orange,"Orlando, FL",21423,1
+32822,12095,Orange,"Orlando, FL",53029,1
+32824,12095,Orange,"Meadow Woods, FL",37401,1
+32825,12095,Orange,"Orlando, FL",53024,1
+32826,12095,Orange,"University, FL",29347,1
+32827,12095,Orange,"Orlando, FL",6362,1
+32828,12095,Orange,"Alafaya, FL",57881,1
+32829,12095,Orange,"Orlando, FL",17822,1
+32830,12095,Orange,"Orlando, FL",26,1
+32831,12095,Orange,"Orlando, FL",2542,1
+32832,12095,Orange,"Orlando, FL",13787,1
+32833,12095,Orange,"Wedgefield, FL",9241,1
+32835,12095,Orange,"Orlando, FL",39633,1
+32836,12095,Orange,"Orlando, FL",16647,1
+32837,12095,Orange,"Orlando, FL",51219,1
+32839,12095,Orange,"Orlando, FL",50279,1
+34734,12095,Orange,"Gotha, FL",3835,1
+34760,12095,Orange,"Oakland, FL",875,1
+34761,12095,Orange,"Ocoee, FL",37500,1
+34786,12095,Orange,"Lake Butler, FL",28092,1
+34787,12095,Orange,"Winter Garden, FL",45211,0.9811
+33848,12097,Osceola,"Intercession City, FL (PO Boxes)",851,1
+33896,12097,Osceola,"Four Corners, FL",653,0.0984
+34739,12097,Osceola,"Kenansville, FL",793,1
+34741,12097,Osceola,"Kissimmee, FL",40828,1
+34743,12097,Osceola,"Buenaventura Lakes, FL",33632,1
+34744,12097,Osceola,"Kissimmee, FL",44142,1
+34746,12097,Osceola,"Kissimmee, FL",35022,1
+34747,12097,Osceola,"Celebration, FL",13692,1
+34758,12097,Osceola,"Poinciana, FL",30879,1
+34759,12097,Osceola,"Poinciana, FL",6476,0.2147
+34769,12097,Osceola,"St. Cloud, FL",21399,1
+34771,12097,Osceola,"Saint Cloud, FL",14280,1
+34772,12097,Osceola,"St. Cloud, FL",22770,1
+34773,12097,Osceola,"Saint Cloud, FL",2983,1
+34972,12097,Osceola,"Okeechobee, FL",285,0.0141
+33401,12099,Palm Beach,"West Palm Beach, FL",24879,1
+33403,12099,Palm Beach,"Lake Park, FL",12042,1
+33404,12099,Palm Beach,"Riviera Beach, FL",27489,1
+33405,12099,Palm Beach,"West Palm Beach, FL",19155,1
+33406,12099,Palm Beach,"West Palm Beach, FL",26312,1
+33407,12099,Palm Beach,"West Palm Beach, FL",29659,1
+33408,12099,Palm Beach,"North Palm Beach, FL",16921,1
+33409,12099,Palm Beach,"West Palm Beach, FL",29140,1
+33410,12099,Palm Beach,"Palm Beach Gardens, FL",32570,1
+33411,12099,Palm Beach,"Royal Palm Beach, FL",65245,1
+33412,12099,Palm Beach,"The Acreage, FL",14414,1
+33413,12099,Palm Beach,"Greenacres, FL",15162,1
+33414,12099,Palm Beach,"Wellington, FL",53718,1
+33415,12099,Palm Beach,"West Palm Beach, FL",44963,1
+33417,12099,Palm Beach,"West Palm Beach, FL",29156,1
+33418,12099,Palm Beach,"Palm Beach Gardens, FL",36017,1
+33426,12099,Palm Beach,"Boynton Beach, FL",20082,1
+33428,12099,Palm Beach,"Boca Raton, FL",38548,1
+33430,12099,Palm Beach,"Belle Glade, FL",21427,1
+33431,12099,Palm Beach,"Boca Raton, FL",18290,1
+33432,12099,Palm Beach,"Boca Raton, FL",18715,1
+33433,12099,Palm Beach,"Boca Raton, FL",41722,1
+33434,12099,Palm Beach,"Boca Raton, FL",19260,1
+33435,12099,Palm Beach,"Boynton Beach, FL",32104,1
+33436,12099,Palm Beach,"Boynton Beach, FL",41896,1
+33437,12099,Palm Beach,"Boynton Beach, FL",35938,1
+33438,12099,Palm Beach,"Canal Point, FL",428,0.9325
+33440,12099,Palm Beach,"Clewiston, FL",265,0.0134
+33444,12099,Palm Beach,"Delray Beach, FL",20221,1
+33445,12099,Palm Beach,"Delray Beach, FL",29754,1
+33446,12099,Palm Beach,"Delray Beach, FL",22088,1
+33449,12099,Palm Beach,"Lake Worth, FL",10817,1
+33458,12099,Palm Beach,"Jupiter, FL",48435,0.9805
+33460,12099,Palm Beach,"Lake Worth, FL",30790,1
+33461,12099,Palm Beach,"Lake Worth, FL",40748,1
+33462,12099,Palm Beach,"Lantana, FL",30879,1
+33463,12099,Palm Beach,"Lake Worth, FL",53766,1
+33467,12099,Palm Beach,"Lake Worth, FL",48808,1
+33469,12099,Palm Beach,"Jupiter, FL",9708,0.6719
+33470,12099,Palm Beach,"The Acreage, FL",26551,1
+33472,12099,Palm Beach,"Boynton Beach, FL",19100,1
+33473,12099,Palm Beach,"Boynton Beach, FL",6265,1
+33476,12099,Palm Beach,"Pahokee, FL",7669,1
+33477,12099,Palm Beach,"Jupiter, FL",13074,1
+33478,12099,Palm Beach,"Jupiter Farms, FL",12259,0.965
+33480,12099,Palm Beach,"Palm Beach, FL",9549,1
+33483,12099,Palm Beach,"Delray Beach, FL",12093,1
+33484,12099,Palm Beach,"Delray Beach, FL",23443,1
+33486,12099,Palm Beach,"Boca Raton, FL",21720,1
+33487,12099,Palm Beach,"Boca Raton, FL",16421,1
+33493,12099,Palm Beach,"South Bay, FL",4926,1
+33496,12099,Palm Beach,"Boca Raton, FL",20969,1
+33498,12099,Palm Beach,"Boca Raton, FL",14557,1
+33523,12101,Pasco,"Dade City, FL",13928,0.7606
+33525,12101,Pasco,"Dade City, FL",18439,1
+33540,12101,Pasco,"Zephyrhills, FL",8668,0.9904
+33541,12101,Pasco,"Zephyrhills, FL",19759,1
+33542,12101,Pasco,"Zephyrhills, FL",20824,1
+33543,12101,Pasco,"Wesley Chapel, FL",21898,1
+33544,12101,Pasco,"Wesley Chapel, FL",22800,1
+33545,12101,Pasco,"Wesley Chapel, FL",13996,1
+33548,12101,Pasco,"Lutz, FL",156,0.0269
+33549,12101,Pasco,"Lutz, FL",3808,0.2361
+33556,12101,Pasco,"Keystone, FL",6264,0.2845
+33558,12101,Pasco,"Cheval, FL",2922,0.1456
+33559,12101,Pasco,"Land O Lakes, FL",7256,0.4703
+33576,12101,Pasco,"San Antonio, FL",3784,1
+33597,12101,Pasco,"Webster, FL",42,0.0052
+34610,12101,Pasco,"Shady Hills, FL",12907,1
+34637,12101,Pasco,"Land O Lakes, FL",6297,1
+34638,12101,Pasco,"Land O Lakes, FL",20048,1
+34639,12101,Pasco,"Land O Lakes, FL",24092,1
+34652,12101,Pasco,"Elfers, FL",24147,1
+34653,12101,Pasco,"New Port Richey, FL",30756,1
+34654,12101,Pasco,"New Port Richey, FL",21716,1
+34655,12101,Pasco,"New Port Richey, FL",38464,1
+34667,12101,Pasco,"Hudson, FL",32144,1
+34668,12101,Pasco,"Jasmine Estates, FL",42619,1
+34669,12101,Pasco,"Hudson, FL",12648,1
+34679,12101,Pasco,"Aripeka, FL (PO Boxes)",99,1
+34690,12101,Pasco,"Holiday, FL",13137,1
+34691,12101,Pasco,"Holiday, FL",21079,1
+33701,12103,Pinellas,"St. Petersburg, FL",15014,1
+33702,12103,Pinellas,"St. Petersburg, FL",29664,1
+33703,12103,Pinellas,"St. Petersburg, FL",23680,1
+33704,12103,Pinellas,"St. Petersburg, FL",16098,1
+33705,12103,Pinellas,"St. Petersburg, FL",26435,1
+33706,12103,Pinellas,"St. Pete Beach, FL",15901,1
+33707,12103,Pinellas,"Gulfport, FL",24599,1
+33708,12103,Pinellas,"Madeira Beach, FL",15447,1
+33709,12103,Pinellas,"West Lealman, FL",26023,1
+33710,12103,Pinellas,"St. Petersburg, FL",32780,1
+33711,12103,Pinellas,"St. Petersburg, FL",19162,1
+33712,12103,Pinellas,"St. Petersburg, FL",25066,1
+33713,12103,Pinellas,"St. Petersburg, FL",29812,1
+33714,12103,Pinellas,"Lealman, FL",18531,1
+33715,12103,Pinellas,"Tierra Verde, FL",7407,1
+33716,12103,Pinellas,"St. Petersburg, FL",15424,1
+33744,12103,Pinellas,"Bay Pines, FL",148,1
+33755,12103,Pinellas,"Clearwater, FL",26146,1
+33756,12103,Pinellas,"Clearwater, FL",31275,1
+33759,12103,Pinellas,"Clearwater, FL",17820,1
+33760,12103,Pinellas,"Largo, FL",15133,1
+33761,12103,Pinellas,"Clearwater, FL",18167,1
+33762,12103,Pinellas,"Feather Sound, FL",8499,1
+33763,12103,Pinellas,"Clearwater, FL",17887,1
+33764,12103,Pinellas,"Clearwater, FL",24045,1
+33765,12103,Pinellas,"Clearwater, FL",13275,1
+33767,12103,Pinellas,"Clearwater, FL",8007,1
+33770,12103,Pinellas,"Largo, FL",25281,1
+33771,12103,Pinellas,"Largo, FL",29839,1
+33772,12103,Pinellas,"Seminole, FL",22981,1
+33773,12103,Pinellas,"Largo, FL",16826,1
+33774,12103,Pinellas,"Largo, FL",17712,1
+33776,12103,Pinellas,"Seminole, FL",12402,1
+33777,12103,Pinellas,"Bardmoor, FL",17140,1
+33778,12103,Pinellas,"Largo, FL",14263,1
+33781,12103,Pinellas,"Pinellas Park, FL",25922,1
+33782,12103,Pinellas,"Pinellas Park, FL",20850,1
+33785,12103,Pinellas,"Indian Rocks Beach, FL",5533,1
+33786,12103,Pinellas,"Belleair Beach, FL",1669,1
+34677,12103,Pinellas,"Oldsmar, FL",20842,1
+34681,12103,Pinellas,"Palm Harbor, FL",1294,1
+34683,12103,Pinellas,"Palm Harbor, FL",31268,1
+34684,12103,Pinellas,"Palm Harbor, FL",25847,1
+34685,12103,Pinellas,"East Lake, FL",17286,1
+34688,12103,Pinellas,"East Lake, FL",7274,1
+34689,12103,Pinellas,"Tarpon Springs, FL",26132,1
+34695,12103,Pinellas,"Safety Harbor, FL",17496,1
+34698,12103,Pinellas,"Dunedin, FL",37240,1
+33801,12105,Polk,"Lakeland, FL",33741,1
+33803,12105,Polk,"Lakeland, FL",27094,1
+33805,12105,Polk,"Lakeland, FL",23153,1
+33809,12105,Polk,"Lakeland, FL",28929,1
+33810,12105,Polk,"Lakeland, FL",43957,0.9933
+33811,12105,Polk,"Lakeland, FL",20980,1
+33812,12105,Polk,"Highland City, FL",13166,1
+33813,12105,Polk,"Lakeland Highlands, FL",31698,1
+33815,12105,Polk,"Lakeland, FL",14267,1
+33823,12105,Polk,"Auburndale, FL",28874,1
+33825,12105,Polk,"Avon Park, FL",1825,0.0732
+33827,12105,Polk,"Babson Park, FL",3036,1
+33830,12105,Polk,"Bartow, FL",27542,1
+33834,12105,Polk,"Bowling Green, FL",246,0.033
+33837,12105,Polk,"Davenport, FL",20234,1
+33838,12105,Polk,"Dundee, FL",3515,1
+33839,12105,Polk,"Eagle Lake, FL",2756,1
+33841,12105,Polk,"Fort Meade, FL",8722,1
+33843,12105,Polk,"Frostproof, FL",11093,1
+33844,12105,Polk,"Haines City, FL",33804,1
+33847,12105,Polk,"Homeland, FL",227,1
+33849,12105,Polk,"Kathleen, FL",856,1
+33850,12105,Polk,"Lake Alfred, FL",7519,1
+33851,12105,Polk,"Lake Hamilton, FL",907,1
+33853,12105,Polk,"Lake Wales, FL",11161,1
+33854,12105,Polk,"Fedhaven, FL",194,1
+33855,12105,Polk,"Indian Lake Estates, FL",43,1
+33856,12105,Polk,"Nalcrest, FL",487,1
+33859,12105,Polk,"Lake Wales, FL",10582,1
+33860,12105,Polk,"Fuller Heights, FL",22886,1
+33867,12105,Polk,"River Ranch, FL",106,1
+33868,12105,Polk,"Polk City, FL",11720,1
+33877,12105,Polk,"Waverly, FL",276,1
+33880,12105,Polk,"Winter Haven, FL",37798,1
+33881,12105,Polk,"Winter Haven, FL",29345,1
+33884,12105,Polk,"Winter Haven, FL",28763,1
+33896,12105,Polk,"Four Corners, FL",5980,0.9016
+33897,12105,Polk,"Davenport, FL",14117,1
+33898,12105,Polk,"Lake Wales, FL",15355,1
+34714,12105,Polk,"Four Corners, FL",1447,0.0985
+34759,12105,Polk,"Poinciana, FL",23694,0.7853
+32043,12107,Putnam,"Green Cove Springs, FL",172,0.007
+32112,12107,Putnam,"Crescent City, FL",7713,1
+32131,12107,Putnam,"East Palatka, FL",4701,1
+32134,12107,Putnam,"Fort Mc Coy, FL",234,0.0289
+32139,12107,Putnam,"Georgetown, FL",1129,1
+32140,12107,Putnam,"Florahome, FL",1741,1
+32147,12107,Putnam,"Hollister, FL (PO Boxes)",593,1
+32148,12107,Putnam,"Interlachen, FL",11201,1
+32157,12107,Putnam,"Lake Como, FL (PO Boxes)",407,1
+32177,12107,Putnam,"Palatka, FL",27132,1
+32181,12107,Putnam,"Pomona Park, FL",2551,1
+32187,12107,Putnam,"San Mateo, FL",1713,1
+32189,12107,Putnam,"Satsuma, FL",5807,1
+32193,12107,Putnam,"Welaka, FL",825,1
+32640,12107,Putnam,"Hawthorne, FL",5610,0.5338
+32666,12107,Putnam,"Melrose, FL",2835,0.4792
+32033,12109,St. Johns,"Elkton, FL",4118,1
+32080,12109,St. Johns,"St. Augustine Beach, FL",20165,1
+32081,12109,St. Johns,"Nocatee, FL",4524,1
+32082,12109,St. Johns,"Palm Valley, FL",28996,1
+32084,12109,St. Johns,"Saint Augustine, FL",29729,1
+32086,12109,St. Johns,"Saint Augustine, FL",24546,1
+32092,12109,St. Johns,"Saint Augustine, FL",28242,1
+32095,12109,St. Johns,"Saint Augustine, FL",7302,1
+32145,12109,St. Johns,"Flagler Estates, FL",5456,1
+32224,12109,St. Johns,"Jacksonville, FL",44,0.0011
+32259,12109,St. Johns,"Fruit Cove, FL",36917,1
+34945,12111,St. Lucie,"Fort Pierce, FL",5514,1
+34946,12111,St. Lucie,"Fort Pierce North, FL",6025,1
+34947,12111,St. Lucie,"Fort Pierce, FL",12186,1
+34949,12111,St. Lucie,"Fort Pierce, FL",7103,1
+34950,12111,St. Lucie,"Fort Pierce, FL",15436,1
+34951,12111,St. Lucie,"Lakewood Park, FL",14115,1
+34952,12111,St. Lucie,"Port St. Lucie, FL",38285,1
+34953,12111,St. Lucie,"Port St. Lucie, FL",61494,1
+34957,12111,St. Lucie,"Jensen Beach, FL",5649,0.2538
+34972,12111,St. Lucie,"Okeechobee, FL",29,0.0014
+34981,12111,St. Lucie,"Fort Pierce, FL",4239,1
+34982,12111,St. Lucie,"Fort Pierce, FL",24544,1
+34983,12111,St. Lucie,"Port St. Lucie, FL",38480,1
+34984,12111,St. Lucie,"Port St. Lucie, FL",13764,1
+34986,12111,St. Lucie,"Port St. Lucie, FL",23297,1
+34987,12111,St. Lucie,"Port St. Lucie, FL",6118,1
+34990,12111,St. Lucie,"Palm City, FL",983,0.0355
+34994,12111,St. Lucie,"Stuart, FL",528,0.0331
+32530,12113,Santa Rosa,"Bagdad, FL",38,1
+32531,12113,Santa Rosa,"Baker, FL",40,0.0076
+32561,12113,Santa Rosa,"Gulf Breeze, FL",5763,0.7296
+32563,12113,Santa Rosa,"Midway, FL",22406,1
+32564,12113,Santa Rosa,"Holt, FL",449,0.1558
+32565,12113,Santa Rosa,"Jay, FL",5719,1
+32566,12113,Santa Rosa,"Navarre, FL",33671,1
+32570,12113,Santa Rosa,"Milton, FL",28817,1
+32571,12113,Santa Rosa,"Pace, FL",28881,1
+32583,12113,Santa Rosa,"East Milton, FL",25586,1
+34223,12115,Sarasota,"Englewood, FL",14149,0.8385
+34224,12115,Sarasota,"Englewood, FL",46,0.003
+34228,12115,Sarasota,"Longboat Key, FL",4490,0.6519
+34229,12115,Sarasota,"Osprey, FL",7192,1
+34231,12115,Sarasota,"Gulf Gate Estates, FL",30268,1
+34232,12115,Sarasota,"Sarasota Springs, FL",30969,1
+34233,12115,Sarasota,"Bee Ridge, FL",16653,1
+34234,12115,Sarasota,"Sarasota, FL",19788,1
+34235,12115,Sarasota,"The Meadows, FL",13640,1
+34236,12115,Sarasota,"Sarasota, FL",12394,1
+34237,12115,Sarasota,"Sarasota, FL",16304,1
+34238,12115,Sarasota,"Sarasota, FL",17500,1
+34239,12115,Sarasota,"Sarasota, FL",15038,1
+34240,12115,Sarasota,"Sarasota, FL",11501,1
+34241,12115,Sarasota,"Sarasota, FL",13590,1
+34242,12115,Sarasota,"Siesta Key, FL",8865,1
+34243,12115,Sarasota,"Sarasota, FL",4577,0.1753
+34251,12115,Sarasota,"Myakka City, FL",86,0.0135
+34266,12115,Sarasota,"Arcadia, FL",28,0.0009
+34275,12115,Sarasota,"Laurel, FL",16245,1
+34285,12115,Sarasota,"Venice, FL",17599,1
+34286,12115,Sarasota,"North Port, FL",17970,1
+34287,12115,Sarasota,"North Port, FL",23859,1
+34288,12115,Sarasota,"North Port, FL",10856,1
+34289,12115,Sarasota,"North Port, FL",2199,1
+34291,12115,Sarasota,"North Port, FL",7125,1
+34292,12115,Sarasota,"Venice, FL",13516,1
+34293,12115,Sarasota,"South Venice, FL",33001,1
+32701,12117,Seminole,"Altamonte Springs, FL",21577,1
+32703,12117,Seminole,"Apopka, FL",11087,0.2399
+32707,12117,Seminole,"Casselberry, FL",35335,1
+32708,12117,Seminole,"Winter Springs, FL",42012,1
+32714,12117,Seminole,"Altamonte Springs, FL",34862,1
+32730,12117,Seminole,"Fern Park, FL",5354,1
+32732,12117,Seminole,"Geneva, FL",5589,1
+32746,12117,Seminole,"Lake Mary, FL",40571,1
+32750,12117,Seminole,"Longwood, FL",22713,1
+32751,12117,Seminole,"Maitland, FL",5831,0.2926
+32765,12117,Seminole,"Oviedo, FL",56349,1
+32766,12117,Seminole,"Oviedo, FL",15698,1
+32771,12117,Seminole,"Sanford, FL",49481,1
+32773,12117,Seminole,"Sanford, FL",28787,1
+32779,12117,Seminole,"Wekiwa Springs, FL",27556,1
+32792,12117,Seminole,"Winter Park, FL",19916,0.4245
+32159,12119,Sumter,"Lady Lake, FL",8782,0.3042
+32162,12119,Sumter,"The Villages, FL",37172,0.8228
+33513,12119,Sumter,"Bushnell, FL",12086,1
+33514,12119,Sumter,"Center Hill, FL",1811,1
+33521,12119,Sumter,"Coleman, FL",599,1
+33538,12119,Sumter,"Lake Panasoffkee, FL",4789,1
+33585,12119,Sumter,"Sumterville, FL",1058,1
+33597,12119,Sumter,"Webster, FL",6648,0.8283
+34484,12119,Sumter,"Oxford, FL",3069,1
+34785,12119,Sumter,"Wildwood, FL",17406,1
+32008,12121,Suwannee,"Branford, FL",2564,0.483
+32024,12121,Suwannee,"Lake City, FL",2098,0.112
+32060,12121,Suwannee,"Live Oak, FL",21363,1
+32062,12121,Suwannee,"Mc Alpin, FL",2449,1
+32064,12121,Suwannee,"Live Oak, FL",6860,1
+32071,12121,Suwannee,"O Brien, FL",3671,1
+32094,12121,Suwannee,"Wellborn, FL",2519,0.9247
+32096,12121,Suwannee,"White Springs, FL",27,0.0102
+32331,12123,Taylor,"Greenville, FL",534,0.1259
+32336,12123,Taylor,"Lamont, FL",161,0.1157
+32347,12123,Taylor,"Perry, FL",8057,1
+32348,12123,Taylor,"Perry, FL",12442,1
+32356,12123,Taylor,"Salem, FL (PO Boxes)",129,1
+32359,12123,Taylor,"Steinhatchee, FL",1236,0.7182
+32054,12125,Union,"Lake Butler, FL",11793,0.9582
+32058,12125,Union,"Lawtey, FL",141,0.0319
+32083,12125,Union,"Raiford, FL",3348,0.7139
+32697,12125,Union,"Worthington Springs, FL (PO Boxes)",253,1
+32102,12127,Volusia,"Astor, FL",566,0.2207
+32114,12127,Volusia,"Daytona Beach, FL",32084,1
+32117,12127,Volusia,"Holly Hill, FL",24170,1
+32118,12127,Volusia,"Daytona Beach, FL",16961,1
+32119,12127,Volusia,"South Daytona, FL",20189,1
+32124,12127,Volusia,"Daytona Beach, FL",5986,1
+32127,12127,Volusia,"Port Orange, FL",29413,1
+32128,12127,Volusia,"Port Orange, FL",16910,1
+32129,12127,Volusia,"Port Orange, FL",20104,1
+32130,12127,Volusia,"De Leon Springs, FL",5474,1
+32132,12127,Volusia,"Edgewater, FL",7265,1
+32136,12127,Volusia,"Flagler Beach, FL",185,0.0261
+32141,12127,Volusia,"Edgewater, FL",17603,1
+32168,12127,Volusia,"New Smyrna Beach, FL",23642,1
+32169,12127,Volusia,"New Smyrna Beach, FL",9816,1
+32174,12127,Volusia,"Ormond Beach, FL",45802,0.9632
+32176,12127,Volusia,"Ormond-by-the-Sea, FL",14339,1
+32180,12127,Volusia,"Pierson, FL",4204,0.9967
+32190,12127,Volusia,"Seville, FL",1170,1
+32713,12127,Volusia,"DeBary, FL",19491,1
+32720,12127,Volusia,"Deland, FL",27218,0.9164
+32724,12127,Volusia,"DeLand, FL",31826,1
+32725,12127,Volusia,"Deltona, FL",44905,1
+32738,12127,Volusia,"Deltona, FL",43830,1
+32744,12127,Volusia,"Lake Helen, FL",3588,1
+32754,12127,Volusia,"Mims, FL",598,0.0529
+32759,12127,Volusia,"Oak Hill, FL",2871,1
+32763,12127,Volusia,"Orange City, FL",21263,1
+32764,12127,Volusia,"Osteen, FL",3120,1
+32327,12129,Wakulla,"Crawfordville, FL",26943,0.9996
+32346,12129,Wakulla,"Panacea, FL",1459,0.8618
+32355,12129,Wakulla,"St. Marks, FL",312,1
+32358,12129,Wakulla,"Sopchoppy, FL",2061,0.9608
+32413,12131,Walton,"Panama City Beach, FL",1115,0.0849
+32433,12131,Walton,"Defuniak Springs, FL",16025,1
+32435,12131,Walton,"Defuniak Springs, FL",6651,1
+32439,12131,Walton,"Freeport, FL",7715,1
+32455,12131,Walton,"Ponce De Leon, FL",2622,0.5536
+32459,12131,Walton,"Santa Rosa Beach, FL",11457,1
+32461,12131,Walton,"Rosemary Beach, FL",13,1
+32462,12131,Walton,"Vernon, FL",180,0.0528
+32464,12131,Walton,"Westville, FL",564,0.1412
+32539,12131,Walton,"Crestview, FL",509,0.0203
+32550,12131,Walton,"Miramar Beach, FL",5867,1
+32567,12131,Walton,"Laurel Hill, FL",1485,0.4231
+32578,12131,Walton,"Niceville, FL",840,0.0279
+32420,12133,Washington,"Alford, FL",20,0.0093
+32425,12133,Washington,"Bonifay, FL",1140,0.0799
+32427,12133,Washington,"Caryville, FL",1475,1
+32428,12133,Washington,"Chipley, FL",17412,1
+32431,12133,Washington,"Cottondale, FL",751,0.1507
+32437,12133,Washington,"Ebro, FL",565,0.8321
+32438,12133,Washington,"Fountain, FL",46,0.0113
+32462,12133,Washington,"Vernon, FL",3191,0.9352
+32463,12133,Washington,"Wausau, FL",114,1
+32466,12133,Washington,"Youngstown, FL",182,0.0323
